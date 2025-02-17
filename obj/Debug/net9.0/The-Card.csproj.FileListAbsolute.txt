@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\bin\Debug\net9.0\The-Card.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\bin\Debug\net9.0\The-Card.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\bin\Debug\net9.0\The-Card.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\bin\Debug\net9.0\The-Card.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\bin\Debug\net9.0\The-Card.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\refint\The-Card.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\The-Card.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Card\obj\Debug\net9.0\ref\The-Card.dll
